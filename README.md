@@ -1,4 +1,4 @@
-# BOILER PLATE
+# SMART HUE
 
 ## Using this Repository
 
